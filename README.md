@@ -67,3 +67,8 @@ Working on this project helped me better understand:
 - how shortest path algorithms are used in real applications like navigation systems
 
 
+## Program Output
+
+Below is a screenshot of the program running in VS Code.
+
+![Dijkstra Program Output](dijkstra_output.png)
